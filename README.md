@@ -1,10 +1,10 @@
-# 🚗 Car Parking System Using Object-Oriented Programming in C++
+#  Car Parking System Using Object-Oriented Programming in C++
 
-### 🧾 A Mini Project Report
+###  A Mini Project Report
 
 ---
 
-## 📘 Abstract
+##  Abstract
 
 The **Car Parking System** project is developed using **C++** to demonstrate the practical application of **Object-Oriented Programming (OOP)** principles for managing vehicle parking efficiently.  
 This system automates the allocation and tracking of parking slots, reducing manual errors and improving efficiency.
@@ -22,7 +22,7 @@ This project successfully demonstrates how OOP can be used to design scalable, m
 
 ---
 
-## 🧩 List of Abbreviations
+##  List of Abbreviations
 
 | Term | Meaning |
 |------|----------|
@@ -44,7 +44,7 @@ This project successfully demonstrates how OOP can be used to design scalable, m
 
 ---
 
-## 🏗️ 1. Introduction
+##  1. Introduction
 
 ### Motivation Behind the Project
 
@@ -69,7 +69,7 @@ This project serves both as a **practical urban solution** and as an **education
 
 ---
 
-## 🌍 Impact on Modern Life
+##  Impact on Modern Life
 
 | Aspect | Traditional Parking | With This System | Impact |
 |--------|--------------------|------------------|--------|
@@ -84,7 +84,7 @@ This project serves both as a **practical urban solution** and as an **education
 
 ---
 
-## 💻 Code Implementation
+##  Code Implementation
 
 ```cpp
 #include <iostream>
